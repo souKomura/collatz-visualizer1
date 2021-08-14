@@ -1,7 +1,7 @@
 # collatz-visualizer1
 tree form visualize of collatz sequence.
 
-
+![70](https://user-images.githubusercontent.com/87483306/129462766-eb2c863e-2b4f-4b11-a487-af2c5d16d650.png)
 
 ## Requirement
 * openFrameworks
